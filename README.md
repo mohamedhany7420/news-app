@@ -3,7 +3,6 @@
 A new Flutter project.
 
 ## Getting Started
-![Provider UI Screenshot](file:///C:/Users/Mohamed%20hany/Videos/Captures/MEmu%205_12_2025%209_15_48%20PM.png)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
